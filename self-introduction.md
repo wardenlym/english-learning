@@ -10,8 +10,6 @@ hi，我叫李一名，我毕业于沈阳大学计算机科学与技术专业并
 
 我早年的工作领域有丰富的服务器后端研发经验，我可以设计模块化的软件系统并使用golang和python等后端语言进行软件开发
 
-我对新技术保持着浓厚的兴趣，持续关注devops领域的技术动向
-
 我有能力扮演在团队中的多种角色，善于通过有效率的交流与团队成员进行协作，为客户实现价值
 
 在日常中我喜欢锻炼耐力的运动如长距离游泳，它有助于我保持旺盛的精力
@@ -26,3 +24,8 @@ I understand the workflow of devops and the tools with performance pragmatic suc
 
 During my early career, as a backend engineer I gained a lot of Linux server-side experience from my daily activities including developing and troubleshooting Linux-based systems.I'm knowledgeable about shell script programing also golang and python application development
 
+I have the ability to play a variety of roles in the team, and I am good at cooperating with team members through effective communication to create value for customers
+
+During my spare time, I like sports aerobics, such as long-distance swimming, which helps me maintain strong energy.
+
+ok, thats all
